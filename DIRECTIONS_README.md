@@ -3,10 +3,17 @@
 ## Introduction
 
 Approach this solution the way you would a real world problem. Use libraries where it makes sense to, and be prepared 
-to explain your thought process if you do. We expect this to take less than 8 hours of actual coding time. Please submit
+to explain your thought process if you do. We expect this to take less than 12 hours of actual coding time. Please submit
 a working solution.
 
 If you have any questions, please contact [hiring@dollaride.com](mailto:hiring@dollaride.com); we're happy to help. 
+
+## How to Submit Your Response
+
+Please submit your solution by emailing [hiring@dollaride.com](mailto:hiring@dollaride.com) a link to **one** of the following:
+- A public git repository (Github is fine) that contains your code and a `README.md` that tells us how to build and run it. 
+
+Please ensure that your submission includes everything needed to run and view your project except the Google API key (don't worry we have our own)!
 
 ## Full Description
 
@@ -19,14 +26,17 @@ to answer questions about why you chose a given approach.
 
 For the map
 - use Mapbox 
-- the user's current location should be a marker with the hex code #0490E1
+- the user's current location should be a marker with the hex code `#0490E1`
 - the user's current location should be accurate and update in real-time
-- the directions should be a series of polylines with the hex code #000000
+- the directions should be a series of polylines with the hex code `#000000`
 
-For the text input. 
-- the border-radius should be 35px
-- the border's hex code should be #EEEEEE
+For the text input
+- the border-radius should be `35px`
+- the border's hex code should be `#EEEEEE`
 - the user should only be able to provide directions to valid addresses and destinations  
+
+Bonus points
+- tests
 
 Additionally, please satisfy these requirements:
 
