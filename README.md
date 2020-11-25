@@ -4,11 +4,11 @@
 
 Hi there! Please complete the problem described below. Solve to the best of your ability, using the tools you're most comfortable with. Assume you're sending your submission in for code review from peers; we'll be talking about your submission in your interview in that context. Be sure to read the problem description and read the requirements carefully. 
 
-We expect this to take less than 12 hours of actual coding time. Please submit a working solution. We'd like a submission within a week and if you need more time please let us know. 
+We expect this to take less than 8 hours of actual coding time. Please submit a working solution. We'd like a submission within a week and if you need more time please let us know. 
 
 ## How to submit your response
 
-Please submit your solution by emailing a link to hiring@dollaride.com. More details on what we are looking for are included in the problem description linked to below.
+Please submit your solution by emailing a link to [hiring@dollaride.com](mailto:hiring@dollaride.com). More details on what we are looking for are included in the problem description linked to below.
 
 ## Problem 
 
