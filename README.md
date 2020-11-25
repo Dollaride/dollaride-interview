@@ -1,4 +1,4 @@
-# Dollarie Software Engineering Interview
+# Dollaride Software Engineering Interview
 
 ## Introduction and expectations
 
