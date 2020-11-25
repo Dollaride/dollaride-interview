@@ -6,7 +6,7 @@ Hi there! Please complete the problem described below. Solve to the best of your
 
 We expect this to take less than 12 hours of actual coding time. Please submit a working solution. We'd like a submission within a week and if you need more time please let us know. 
 
-## how to submit your response
+## How to submit your response
 
 Please submit your solution by emailing a link to hiring@dollaride.com. More details on what we are looking for are included in the problem description linked to below.
 
