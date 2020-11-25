@@ -14,5 +14,5 @@ Please submit your solution by emailing a link to hiring@dollaride.com. More det
 
 ### Display directions from an API to a map. 
 
-This option involves creating [a React Native web application that loads data from an API.](DIRECTIONS_README.md).
+This option involves creating [a React Native web application that loads data from an API.](DIRECTIONS_README.md)
 
